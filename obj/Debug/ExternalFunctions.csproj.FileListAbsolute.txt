@@ -1,0 +1,17 @@
+C:\Users\MGFE\source\repos\ExternalFunctions\bin\Debug\ExternalFunctions.exe.config
+C:\Users\MGFE\source\repos\ExternalFunctions\bin\Debug\ExternalFunctions.exe
+C:\Users\MGFE\source\repos\ExternalFunctions\bin\Debug\ExternalFunctions.pdb
+C:\Users\MGFE\source\repos\ExternalFunctions\obj\Debug\ExternalFunctions.csprojResolveAssemblyReference.cache
+C:\Users\MGFE\source\repos\ExternalFunctions\obj\Debug\ExternalFunctions.csproj.CoreCompileInputs.cache
+C:\Users\MGFE\source\repos\ExternalFunctions\obj\Debug\ExternalFunctions.exe
+C:\Users\MGFE\source\repos\ExternalFunctions\obj\Debug\ExternalFunctions.pdb
+C:\Users\MGFE\source\repos\ExternalFunctions\bin\Debug\EntityFramework.dll
+C:\Users\MGFE\source\repos\ExternalFunctions\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MGFE\source\repos\ExternalFunctions\bin\Debug\System.Data.SQLite.dll
+C:\Users\MGFE\source\repos\ExternalFunctions\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\MGFE\source\repos\ExternalFunctions\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\MGFE\source\repos\ExternalFunctions\bin\Debug\EntityFramework.xml
+C:\Users\MGFE\source\repos\ExternalFunctions\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MGFE\source\repos\ExternalFunctions\bin\Debug\System.Data.SQLite.xml
+C:\Users\MGFE\source\repos\ExternalFunctions\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\MGFE\source\repos\ExternalFunctions\obj\Debug\ExternalFunctions.csproj.CopyComplete
